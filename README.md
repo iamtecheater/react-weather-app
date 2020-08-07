@@ -1,4 +1,5 @@
 A simple React weather app that displays weather information from the OpenWeatherMap API.
+My first try at an app like this even though I have left out a few things I am quite happy with what I have achieved.
 
 Use npm install and npm udpate if need be.
 
